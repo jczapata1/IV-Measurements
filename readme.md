@@ -30,7 +30,9 @@
 
 Copyright © 2024 Juan Camilo Zapata
 
-Everyone is permitted to copy and distribute this project for scientific purposes, with the appropriate citations and acknowledgments.
+<p align="justify">
+    Everyone is permitted to copy and distribute this project for scientific purposes, with the appropriate citations and acknowledgments.
+</p>
 
 ## Acknowledgements
 
