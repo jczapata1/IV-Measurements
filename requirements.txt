@@ -1,0 +1,4 @@
+numpy==2.0.1
+pyvisa==1.14.1
+scikit-learn==1.5.1
+matplotlib==3.9.1
